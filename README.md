@@ -1,4 +1,4 @@
-<img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/Ultra-DDos/main/src/20210924_095257.png"/>
+<img width="99.9%" src=""/>
 
 <p align="center">
 <a href="https://github.com/mishakorzik/Ultra-DDos"><img title="Version" src="https://img.shields.io/badge/Version-1.1.0-darkblue?style=for-the-badge&logo="></a>
